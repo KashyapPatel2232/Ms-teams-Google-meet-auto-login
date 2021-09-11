@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kashyap Patel
 - 👀 I’m interested in Machine learning, Neural Networks, Embedded systems control and Hacking.
-- 🌱 I’m currently learning basics of all of my intrest.
+- 🌱 I’m currently learning basics of all of my interest.
 - 💞️ Contact me via Gmail ID:kashyapatel2232@gmail.com
 - **Current projects:** Auto login project on Microsoft Teams and Google meet.
 - **Future Projects:** Wireless Micro Flying Device
