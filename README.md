@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine learning, Neural Networks and Hacking.
 - 🌱 I’m currently learning basics of all of my intrest.
 - 💞️ Contact me via Gmail ID:kashyapatel2232@gmail.com
-- **Current projects:****Auto login project on Microsoft Teams and Google meet.**
+- **Current projects:**Auto login project on Microsoft Teams and Google meet.
 
 
 <!---
