@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Kashyap Patel
-- 👀 I’m interested in Network Security,Embedded control Systems and Web Automation.
-- 🌱 I’m currently learning basics of all of my interest.
+- 👀 I’m interested in Deep Learning, building LLMs, Finance, and Network Security.
 - 💞️ Contact me via Gmail ID:kashyapatel2232@gmail.com
-- **Current projects:** Auto login project on Microsoft Teams and Google meet.
-- **Future Projects:** Wireless Micro Flying Device
 
 
 <!---
